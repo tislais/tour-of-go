@@ -1,9 +1,8 @@
 ## Tour of Go
 
 [Basics](./basics)
-- [Packages](./basics/01-packages/)
-- [Functions](./basics/02-functions/)
-- [Variables](./basics/03-variables/)
+- [Packages, Functions, and Variables](./basics/packages-functions-variables)
+- [Flow Control Statements](./basics/flow-control-statements)
 
 #### Methods and Interfaces
 

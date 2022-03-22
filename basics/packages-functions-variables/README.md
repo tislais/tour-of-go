@@ -1,4 +1,4 @@
-# Basics
+# Basics - Packages, Functions, Variables
 
 ## Packages
 Every Go program is made up of packages.
