@@ -16,7 +16,7 @@ Variables declared inside an `if` short statement are also available inside any 
 
 ## Exercise: Loops and Functions
 
-As a way to pkay with functions and loops, let's implement a square root function: 
+As a way to play with functions and loops, let's implement a square root function: 
 
 Given a number `x`, we want to find the number `z` for which `z²` is most nearly `x`.
 

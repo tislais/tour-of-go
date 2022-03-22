@@ -1,3 +1,5 @@
+# Basics - packages, functions, and variables
+
 ## Functions
 
 A function can take zero or more arguments. Type comes *after* the variable name. See the article on [Go's declaration syntax](https://blog.golang.org/gos-declaration-syntax).
